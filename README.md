@@ -14,7 +14,7 @@ Para executar o programa deve-se ter o Python 3 instalado em sua máquina e segu
 
 Ir ao diretório `bin` e executar o arquivo `executavel.py`
 
-$ python executavel.py
+   $ python executavel.py
 
 junto com o arquivo `executar.config` e a estrutura de diretórios `INPUT` e `OUTPUT`.
 
