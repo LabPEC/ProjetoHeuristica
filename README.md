@@ -6,11 +6,11 @@ Este projeto está baseado no problema do caixeiro viajante (PCV).
 O programa aqui apresentado NÃO resolve o problema PCV, mas deixa definido um arcabouço de Entrada->Processamento->Saída em python.
 
 - No diretório raiz encontram-se:
-(1) Esse arquivo `README.md`
-(2) Diretório `bin` com o arquivo executável acompanhado de diretórios e arquivos de configuração necessários à sua execução
-(3) Diretório `src` com todos os arquivos fontes (sources) do programa organizados em subdiretórios
+   - Esse arquivo `README.md`
+   - Diretório `bin` com o arquivo executável acompanhado de diretórios e arquivos de configuração necessários à sua execução
+   - Diretório `src` com todos os arquivos fontes (sources) do programa organizados em subdiretórios
 
-- Para executar o programa deve-se ter o Python 3 instalado em sua máquina e seguir os comentários a seguir.
+Para executar o programa deve-se ter o Python 3 instalado em sua máquina e seguir os comentários a seguir.
 
 Ir ao diretório `bin` e executar o arquivo `executavel.py`
 
